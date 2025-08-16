@@ -16,7 +16,7 @@ A simple and customizable Password Generator built with **HTML**, **CSS**, and *
 ## 🖥️ Live Demo
 
 
-👉 [Click here to try it out] (https://ujjwalmalik10e.github.io/password-generator/)
+👉 [Click here to try it out](https://ujjwalmalik10e.github.io/password-generator/)
 
 ## 📸 Preview
 
